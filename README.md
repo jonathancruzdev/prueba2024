@@ -53,3 +53,7 @@ git remote add origin https://github.com/jonathancruzdev/prueba2024.git
 ```
 ![areas](log.png)
 
+# Creamos una rama
+``` bash
+    git branch <nombre>
+```
