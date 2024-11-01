@@ -35,3 +35,7 @@ o configuro globalmente
 git commit -m "Proyecto Base"
 ```
 
+- Para saber el estado del repositorio
+``` bash
+git status
+```
