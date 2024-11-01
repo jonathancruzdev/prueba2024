@@ -39,3 +39,17 @@ git commit -m "Proyecto Base"
 ``` bash
 git status
 ```
+
+- Me creo una cuenta en Github
+-  Vínulamos el repositorio con lo local
+``` bash
+
+git remote add origin https://github.com/jonathancruzdev/prueba2024.git
+```
+
+- Para subir los commits a la nube
+``` bash
+    git push origin master
+```
+![areas](log.png)
+
